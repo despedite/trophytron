@@ -1,7 +1,9 @@
-
 # Trophytron
 
 A helper website designed to simplify viewing nominations on a livestream for an awards show, without having to manually create video files.
+
+![image](https://github.com/user-attachments/assets/a4fa0cf9-a670-4fad-860d-fdc733ede37b)
+![image](https://github.com/user-attachments/assets/eae72d46-bbb8-438f-9160-8303b9ccb6b1)
 
 ## Dependencies
 
