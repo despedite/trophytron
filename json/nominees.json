@@ -1,0 +1,43 @@
+[
+    {
+        "name": " BEST ACTOR AWARD ",
+        "code": "best-actor",
+        "answers": [
+            {
+                "name": "Will Smith",
+                "owners": "King Richard",
+                "image": "https://fr.web.img3.acsta.net/pictures/20/01/16/09/48/3201727.jpg",
+                "votes": 8,
+                "censored": false
+            },
+            {
+                "name": "Javier Bardem",
+                "owners": "Being the Ricardos",
+                "image": "https://cdn.britannica.com/29/124329-050-A15813B2/Javier-Bardem-Spanish.jpg",
+                "votes": 4,
+                "censored": false
+            },
+            {
+                "name": "Benedict Cumberbatch",
+                "owners": "The Power of the Dog",
+                "votes": 3,
+                "image": "https://api.time.com/wp-content/uploads/2014/10/4568715041.jpg",
+                "censored": false
+            },
+            {
+                "name": "Andrew Garfield",
+                "owners": "tick, tick... BOOM!",
+                "votes": 2,
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI0NDQwMjcxN15BMl5BanBnXkFtZTcwOTQ0NjA0NA@@._V1_FMjpg_UX1180_.jpg",
+                "censored": false
+            },
+            {
+                "name": "Denzel Washington",
+                "owners": "The Tragedy of Macbeth",
+                "votes": 2,
+                "image": "https://3.bp.blogspot.com/-liija5YHFLE/TseJ_yGfCwI/AAAAAAAAB-8/ROzj2b2njnY/s1600/Denzel+Washington+II.jpg",
+                "censored": false
+            }
+        ]
+    }
+]
